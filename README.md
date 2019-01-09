@@ -1,4 +1,4 @@
-# inversion detection for HGSVC paper
+# inversion detection for HGSVC
 
 Collaborators: Ashley D. Sanders and David Porubsky
 
